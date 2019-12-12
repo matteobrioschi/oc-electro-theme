@@ -11,6 +11,7 @@ $(document).ready(function() {
         }
 
     }
+    
     if (!foundId) {
         var metas = $('meta');
         var url;
